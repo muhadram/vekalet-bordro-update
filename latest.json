@@ -9,7 +9,7 @@
     },
     "linux-x86_64": {
       "signature": "TEST",
-      "url": "https://example.com/test.AppImage"
+      "url": "https://github.com/muhadram/vekalet-bordro-update/releases/download/v0.1.1/Vekalet.Bordro_0.1.0_amd64.deb"
     }
   }
 }
