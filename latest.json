@@ -7,7 +7,7 @@
 
   "platforms": {
     "windows-x86_64": {
-      "signature": "GERCEK_WINDOWS_SIG",
+      "signature": "BURAYA_GERCEK_WINDOWS_SIG",
       "url": "https://github.com/muhadram/vekalet-bordro-update/releases/download/v0.1.1/Vekalet.Bordro_0.1.1_x64-setup.exe"
     }
   }
