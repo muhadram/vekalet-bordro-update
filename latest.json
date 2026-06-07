@@ -7,7 +7,7 @@
 
   "platforms": {
     "windows-x86_64": {
-      "signature": "BURAYA_GERCEK_WINDOWS_SIG",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5WkFaQ2JSVHNXZ3FDaDlNR29BbzAyRCtPOHV1bGFuRi9kbk94YWx6cmVzRUFBQkFBQUFBQUFBQUFBQUlBQUFBQVRIaWptWmVUSkxGTUZhWVVMVWV4R3d1M1hwdDdvNHdPRzdVSGx2cmtsbnE0cVBPUjJiQWJlVUIxbWVSK1B4bGZxR3E5em1iOCs3bXUzWGEvZC9uejhBNGtCRDJTbjZ6UTRyY0pMN016NEdRVDhTM01DelFPVVJnTXcwU0huV3RLdXYySEJoWXVJcFU9Cg==",
       "url": "https://github.com/muhadram/vekalet-bordro-update/releases/download/v0.1.1/Vekalet.Bordro_0.1.1_x64-setup.exe"
     }
   }
