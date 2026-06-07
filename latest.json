@@ -3,12 +3,12 @@
   "notes": "Pardus yönlendirme sistemi",
   "pub_date": "2026-06-07T12:00:00Z",
 
-  "downloadPage": "https://github.com/muhadram/vekalet-bordro-update/releases/latest",
+  "downloadPage": "https://github.com/muhadram/vekalet-bordro-update/releases/download/v0.1.1/Vekalet.Bordro_0.1.1_amd64.deb",
 
   "platforms": {
     "windows-x86_64": {
-      "signature": "...",
-      "url": "..."
+      "signature": "GERCEK_WINDOWS_SIG",
+      "url": "https://github.com/muhadram/vekalet-bordro-update/releases/download/v0.1.1/Vekalet.Bordro_0.1.1_x64-setup.exe"
     }
   }
 }
