@@ -4,6 +4,7 @@
   "pub_date": "2026-06-07T12:00:00Z",
 
   "downloadPage": "https://github.com/muhadram/vekalet-bordro-update/releases/latest",
+  "download": "https://gitlab.com/muhadram/vekalet_bordro/-/raw/e88efe6533ab609468a80379e911170f1c7ea445/Vekalet.Bordro_1.0.0_amd64.deb",
 
   "platforms": {
     "windows-x86_64": {
