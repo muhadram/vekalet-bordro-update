@@ -1,1 +1,1 @@
-Geçmişe Dönük Vekalet Aylığı Hesaplama Bordrosu ~Windows~
+Geçmişe Dönük Vekalet Aylığı Hesaplama Bordrosu *Windows*
